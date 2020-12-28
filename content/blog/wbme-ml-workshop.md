@@ -1,11 +1,9 @@
 ---
-title: "Stuff"
-date: 2020-12-28T16:27:58Z
+title: "Wbme ML Workshop"
+date: 2020-12-28T17:50:35Z
 ---
 
-## Workshops
-
-### [Machine Learning for Medicine and Healthcare](https://github.com/JGalego/WBME-ML-Workshop)
+## [Machine Learning for Medicine and Healthcare](https://github.com/JGalego/WBME-ML-Workshop)
 
 <img src="/wbme.png" width="300"/>
 
@@ -18,24 +16,3 @@ However, in the advent of the [4th Industrial Revolution](https://www.salesforce
 ML systems learn directly from data without being *explicitly* told to do so, and they have found enormous success in such tasks as email filtering, computer-aided diagnostics (CADx) and autonomous driving. Companies like Facebook, Amazon, Netflix and Google are investing heavily on AI, and ML engineer and data scientist positions are among the highest paid and “sexiest” jobs of the early 21st century. Nonetheless, getting past the hype and putting buzzwords aside is hard when one lacks a basic understanding of how these systems actually work. This is especially relevant in the health sector where transparency and accountability are of paramount importance.
 
 In this workshop, we will give an overview of what ML actually is, highlighting some of its applications to the health sector - from the rise of expert systems in the 80s to the diagnosis, prognosis and treatment of [COVID-19](https://www.worldometers.info/coronavirus/) - how it is shaping the present and how it may one day decide our future.
-
-<div class="column">
-  <div class="row">
-    <img src="/gifs/watson_on_jeopardy.gif" title="Watson on Jeopardy" width="150" height="100">
-    <img src="/gifs/deep_fake.gif" title="Deep Fake" width="150" height="100">
-    <img src="/gifs/atari_deepmind.gif" title="DeepMind and Atari 2600" width="150" height="100">
-    <img src="/gifs/tesla_autonomous_driving.gif" title="Tesla and Autonomous Driving" width="150" height="100">
-  </div>
-  <div class="row">
-    <img src="/gifs/alphago.gif" title="DeepMind and AlphaGo" width="150" height="100">
-    <img src="/gifs/mit_jenga.gif" title="MIT Jenga" width="150" height="100">
-    <img src="/gifs/video_annotation.gif" title="Video Annotation" width="150" height="100">
-    <img src="/gifs/robot_surgery.gif" title="Robot Surgery" width="150" height="100">
-  </div>
-  <div class="row">
-    <img src="/gifs/chest_ct_interpretation.gif" title="Chest CT Interpretation" width="150" height="100">
-    <img src="/gifs/diabetic_retinopathy_diagnosis.gif" title="Diabetic Retinopathy Diagnosis" width="150" height="100">
-    <img src="/gifs/brain_tumor_detection.gif" title="Brain Tumor Detection" width="150" height="100">
-    <img src="/gifs/bci.gif" title="Brain-Computer Interfaces" width="150" height="100">
-  </div>
-</div>
