@@ -1,6 +1,6 @@
 ---
-title: "Wbme ML Workshop"
-date: 2020-12-28T17:50:35Z
+title: "WBME ML Workshop"
+date: 2020-10-14T00:00:00Z
 ---
 
 ## [Machine Learning for Medicine and Healthcare](https://github.com/JGalego/WBME-ML-Workshop)
