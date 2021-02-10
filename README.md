@@ -8,5 +8,6 @@ Personal website using [Hugo](https://gohugo.io/) and [GitHub pages](https://pag
 
 ## References
 
+* (Hugo) [Quick Start](https://gohugo.io/getting-started/quick-start/)
 * (Hugo) [Hosting on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 * (Hugo) [Hugo Themes - Researcher](https://themes.gohugo.io/hugo-researcher/)
