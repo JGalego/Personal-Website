@@ -1,5 +1,5 @@
 ---
-title: "Amazon Lookout for Vision"
+title: "Defect Detection with Amazon Lookout for Vision"
 date: 2021-02-10T16:15:08Z
 ---
 
@@ -9,4 +9,4 @@ AWS has announced the release of a handful of products and services geared towar
 
 In this article, we give an introduction to the core tenets of AWS for Industrial through one of its services - [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/) - a service that redefines the defect detection problem as one of binary (image) classification.
 
-<img src="/amazon_lookout_for_vision.png"/>
+<img src="/amazon_lookout_for_vision.png" width="700"/>

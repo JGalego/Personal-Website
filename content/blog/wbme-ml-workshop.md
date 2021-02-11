@@ -1,5 +1,5 @@
 ---
-title: "WBME ML Workshop"
+title: "WBME Workshop - Machine Learning for Medicine and Healthcare"
 date: 2020-10-14T00:00:00Z
 ---
 
