@@ -11,7 +11,7 @@ googleAnalytics = ""  # add your tracking id
   description = "Personal website and blog"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   [params.footer]
-    text = "© João Galego 2020 | Built using Hugo"
+    text = "© João Galego 2021 | Built using Hugo"
     url = "https://github.com/ojroques/hugo-researcher"
 
 [permalinks]
