@@ -1,0 +1,16 @@
+<!-- Adapted from https://pakstech.com/blog/hugo-shortcodes/ -->
+
+{{ $title := .Get "title" | default "Recent Posts" }}
+{{ $count := .Get "count" | default 5 }}
+{{ $pages := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
+
+<div class="container">
+    <h2>{{ $title }}</h2>
+    <div class="columns is-multiline">
+        {{ range first $count $pages }}
+        <div class="column is-one-third">
+            <li><a href="{{ .Permalink }}">{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a></li>
+        </div>
+        {{ end }}
+    </div>
+</div>

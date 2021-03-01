@@ -1,9 +1,9 @@
 ---
-title: "WBME Workshop - Machine Learning for Medicine and Healthcare"
+title: "WBME Workshop - Machine Learning for Medicine and Healthcare 👨‍⚕️"
 date: 2020-10-14T00:00:00Z
 ---
 
-## [Machine Learning for Medicine and Healthcare](https://github.com/JGalego/WBME-ML-Workshop)
+## [Machine Learning for Medicine and Healthcare 👨‍⚕️](https://github.com/JGalego/WBME-ML-Workshop)
 
 <img src="/wbme.png" width="300"/>
 
